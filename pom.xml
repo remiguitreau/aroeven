@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>fr.remiguitreau.aroeven</groupId>
+	<artifactId>aroeven</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Aroeven</name>
+	<packaging>pom</packaging>
+
+	<scm>
+		<connection>scm:hg:ssh://hg@bitbucket.org/netceler/ivtracer-cockpit</connection>
+		<developerConnection>scm:hg:ssh://hg@bitbucket.org/netceler/ivtracer-cockpit</developerConnection>
+		<url>https://bitbucket.org/netceler/ivtracer-cockpit</url>
+		<tag>HEAD</tag>
+	</scm>
+	<modules>
+		<module>aroeven-lucine-api</module>
+	</modules>
+
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.2</version>
+					<configuration>
+						<source>1.7</source>
+						<target>1.7</target>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+
+</project>
