@@ -1,9 +1,10 @@
-package fr.remiguitreau.aroeveren.lucine;
+package fr.remiguitreau.aroeven.lucine;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import fr.remiguitreau.aroeveren.lucine.api.LucineAccessDescriptor;
+import fr.remiguitreau.aroeven.lucine.LucineUtils;
+import fr.remiguitreau.aroeven.lucine.api.LucineAccessDescriptor;
 
 public class LucineUtilsTest {
 

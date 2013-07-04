@@ -1,4 +1,4 @@
-package fr.remiguitreau.aroeveren.lucine.api;
+package fr.remiguitreau.aroeven.lucine.api;
 
 public enum StaySeason {
 	SUMMER("ete", "Eté"), WINTER("hiver", "Hiver"), BAFA("bafa", "Bafa"), OTHER(

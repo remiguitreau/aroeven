@@ -1,10 +1,10 @@
-package fr.remiguitreau.aroeveren.lucine.impl;
+package fr.remiguitreau.aroeven.lucine.impl;
 
 import org.apache.commons.lang3.Validate;
 
-import fr.remiguitreau.aroeveren.lucine.api.AroevenStaysDescriptor;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAPIConnector;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAPIDriver;
+import fr.remiguitreau.aroeven.lucine.api.AroevenStaysDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.LucineAPIConnector;
+import fr.remiguitreau.aroeven.lucine.api.LucineAPIDriver;
 
 public class DefaultLucineAPIDriver implements LucineAPIDriver {
 

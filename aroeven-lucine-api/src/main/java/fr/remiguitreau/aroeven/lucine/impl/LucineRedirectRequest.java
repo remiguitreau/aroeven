@@ -1,4 +1,4 @@
-package fr.remiguitreau.aroeveren.lucine.impl;
+package fr.remiguitreau.aroeven.lucine.impl;
 
 public class LucineRedirectRequest extends RuntimeException {
 

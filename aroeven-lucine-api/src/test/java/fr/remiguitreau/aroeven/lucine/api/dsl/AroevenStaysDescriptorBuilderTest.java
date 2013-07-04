@@ -1,11 +1,12 @@
-package fr.remiguitreau.aroeveren.lucine.api.dsl;
+package fr.remiguitreau.aroeven.lucine.api.dsl;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import fr.remiguitreau.aroeveren.lucine.api.AroevenSite;
-import fr.remiguitreau.aroeveren.lucine.api.AroevenStaysDescriptor;
-import fr.remiguitreau.aroeveren.lucine.api.StaySeason;
+import fr.remiguitreau.aroeven.lucine.api.AroevenSite;
+import fr.remiguitreau.aroeven.lucine.api.AroevenStaysDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.StaySeason;
+import fr.remiguitreau.aroeven.lucine.api.dsl.AroevenStaysDescriptorBuilder;
 
 public class AroevenStaysDescriptorBuilderTest {
 

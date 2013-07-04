@@ -1,12 +1,12 @@
-package fr.remiguitreau.aroeveren.lucine.impl;
+package fr.remiguitreau.aroeven.lucine.impl;
 
 import org.apache.commons.httpclient.HttpMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
 
-import fr.remiguitreau.aroeveren.lucine.api.AroevenStaysDescriptor;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAPIRequestFactory;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAccessDescriptor;
-import fr.remiguitreau.aroeveren.lucine.api.TownWithGetService;
+import fr.remiguitreau.aroeven.lucine.api.AroevenStaysDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.LucineAPIRequestFactory;
+import fr.remiguitreau.aroeven.lucine.api.LucineAccessDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.TownWithGetService;
 
 public class LucineAPIRequestFactoryImpl implements LucineAPIRequestFactory {
 

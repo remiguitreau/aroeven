@@ -1,4 +1,4 @@
-package fr.remiguitreau.aroeveren.lucine.api;
+package fr.remiguitreau.aroeven.lucine.api;
 
 public enum TownWithGetService {
     ABLIS(70073, "ABLIS"), ACHERES(70071, "ACHERES"), AGEN(4, "AGEN"), AIRE_SUR_L_ADOUR(70094,

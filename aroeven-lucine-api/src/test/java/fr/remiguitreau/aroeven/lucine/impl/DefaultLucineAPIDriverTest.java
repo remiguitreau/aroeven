@@ -1,4 +1,4 @@
-package fr.remiguitreau.aroeveren.lucine.impl;
+package fr.remiguitreau.aroeven.lucine.impl;
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -7,8 +7,9 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 
-import fr.remiguitreau.aroeveren.lucine.api.AroevenStaysDescriptor;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAPIConnector;
+import fr.remiguitreau.aroeven.lucine.api.AroevenStaysDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.LucineAPIConnector;
+import fr.remiguitreau.aroeven.lucine.impl.DefaultLucineAPIDriver;
 
 public class DefaultLucineAPIDriverTest {
 

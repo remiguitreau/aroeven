@@ -1,4 +1,4 @@
-package fr.remiguitreau.aroeveren.lucine.impl;
+package fr.remiguitreau.aroeven.lucine.impl;
 
 import org.apache.commons.codec.digest.DigestUtils;
 import org.apache.commons.httpclient.Header;
@@ -15,11 +15,11 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.security.NoSuchAlgorithmException;
 
-import fr.remiguitreau.aroeveren.lucine.LucineUtils;
-import fr.remiguitreau.aroeveren.lucine.api.AroevenStaysDescriptor;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAPIConnector;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAPIRequestFactory;
-import fr.remiguitreau.aroeveren.lucine.api.LucineAccessDescriptor;
+import fr.remiguitreau.aroeven.lucine.LucineUtils;
+import fr.remiguitreau.aroeven.lucine.api.AroevenStaysDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.LucineAPIConnector;
+import fr.remiguitreau.aroeven.lucine.api.LucineAPIRequestFactory;
+import fr.remiguitreau.aroeven.lucine.api.LucineAccessDescriptor;
 
 public class LucineAPIConnectorByHttpClient implements LucineAPIConnector {
 

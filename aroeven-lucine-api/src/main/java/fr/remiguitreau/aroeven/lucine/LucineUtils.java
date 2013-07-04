@@ -1,6 +1,6 @@
-package fr.remiguitreau.aroeveren.lucine;
+package fr.remiguitreau.aroeven.lucine;
 
-import fr.remiguitreau.aroeveren.lucine.api.LucineAccessDescriptor;
+import fr.remiguitreau.aroeven.lucine.api.LucineAccessDescriptor;
 
 public class LucineUtils {
 

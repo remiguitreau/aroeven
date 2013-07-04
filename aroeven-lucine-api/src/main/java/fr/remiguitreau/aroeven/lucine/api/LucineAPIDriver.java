@@ -1,4 +1,4 @@
-package fr.remiguitreau.aroeveren.lucine.api;
+package fr.remiguitreau.aroeven.lucine.api;
 
 
 public interface LucineAPIDriver {
